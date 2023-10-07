@@ -1,0 +1,69 @@
+body {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+
+div.autor {
+  background-color: blue;
+  border: 0px;
+  padding: 5px;
+  margin: 0px;
+}
+
+.autor {
+  text-align: end; 
+  color: azure;
+  background-color: blue;
+}
+
+div.titlu {
+  border: 0px;
+  padding: 0px;
+  height: auto;
+  width: auto;
+}
+div.subtitlu {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  height: auto;
+  width: auto;
+}
+div.subtitlu2 {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  height: auto;
+  width: auto;
+}
+
+* {
+  background-color: #1f4172;
+}
+
+.titlu {
+  padding: 20px;
+  border: 0px;
+  margin: 0px;
+  color: whitesmoke;
+  background-color: #03001c;
+  text-align: center;
+}
+
+.subtitlu {
+  padding: 20px;
+  margin: 0px;
+  color: #faf8f1;
+  background-color: #0079ff;
+}
+
+.text {
+  padding: 20px;
+  margin: 0%;
+  background-color: #79e0ee;
+}
+
+.lista {
+  background-color: #79e0ee;
+}
