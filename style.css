@@ -5,7 +5,7 @@ body {
 }
 
 div.autor {
-  background-color: blue;
+  background-color: #293A80;
   border: 0px;
   padding: 5px;
   margin: 0px;
@@ -14,7 +14,7 @@ div.autor {
 .autor {
   text-align: end; 
   color: azure;
-  background-color: blue;
+  background-color: #293A80;
 }
 
 div.titlu {
