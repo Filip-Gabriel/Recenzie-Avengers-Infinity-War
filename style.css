@@ -5,7 +5,7 @@ body {
 }
 
 div.autor {
-  background-color: #293A80;
+  background-color: #071952;
   border: 0px;
   padding: 5px;
   margin: 0px;
@@ -24,13 +24,6 @@ div.titlu {
   width: auto;
 }
 div.subtitlu {
-  margin: 0px;
-  border: 0px;
-  padding: 0px;
-  height: auto;
-  width: auto;
-}
-div.subtitlu2 {
   margin: 0px;
   border: 0px;
   padding: 0px;
@@ -61,9 +54,9 @@ div.subtitlu2 {
 .text {
   padding: 20px;
   margin: 0%;
-  background-color: #5800FF;
+  background-color: #79E0EE;
 }
 
 .lista {
-  background-color: #5800FF;
+  background-color: #79E0EE;
 }
