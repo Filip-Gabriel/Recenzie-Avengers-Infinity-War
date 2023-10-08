@@ -14,7 +14,7 @@ div.autor {
 .autor {
   text-align: end; 
   color: azure;
-  background-color: #293A80;
+  background-color: #071952;
 }
 
 div.titlu {
@@ -48,13 +48,13 @@ div.subtitlu {
   padding: 20px;
   margin: 0px;
   color: #faf8f1;
-  background-color: #0079ff;
+  background-color: #3330E4;
 }
 
 .text {
   padding: 20px;
   margin: 0%;
-  background-color: #79E0EE;
+  background-color: #0079FF;
 }
 
 .lista {
